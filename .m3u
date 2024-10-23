@@ -1,12 +1,1 @@
-
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbC3bg7lQpxKvh7flBMGSElXpwRNcPrI2CwOXKsKG7Q&s " group-title="URUGUAY", vivo tv
-https://stream.vivotv.uy/hls/stream.m3u8
-
-
-
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbC3bg7lQpxKvh7flBMGSElXpwRNcPrI2CwOXKsKG7Q&s " group-title="URUGUAY", vivo tv
-https://stream.vivotv.uy/hls/stream.m3u8
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbC3bg7lQpxKvh7flBMGSElXpwRNcPrI2CwOXKsKG7Q&s " group-title="URUGUAY", ucl
-https://streamingmcbo.ddns.net:8081/ucltelevision/index.fmp4.m3u8
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbC3bg7lQpxKvh7flBMGSElXpwRNcPrI2CwOXKsKG7Q&s " group-title="URUGUAY", tvf
-https://hostingservicios.info/memfs/2b2e8b12-b741-4c00-9a34-f20dfbaf6462.m3u8
+#EXTINF:-1tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="COLOMBIA"win sporhttps://castlempire.site:8080/live/Cuenta42/4hQTscJnrHfb/256957.ts
