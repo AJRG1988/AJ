@@ -18,7 +18,6 @@ http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/2373.ts
 https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8
 
 
-
 #EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="DEPORTES PREMIUM",STAR+ HD
 http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/56934.ts
 #EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="DEPORTES PREMIUM",WIN+ HD
@@ -35,3 +34,27 @@ http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/76712.ts
 http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/76848.ts
 #EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="DEPORTES PREMIUM",EVENTOS DEL DIA
 http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/57133.ts
+
+
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="PELÍCULAS FHD",CINE ROMÁNTICO 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="PELÍCULAS FHD",RETROX
+https://fl1002.bozztv.com/ssh101/retroxcr/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="PELÍCULAS FHD",RETROX TV
+https://ssh101.bozztv.com/ssh101/tvretropalmares/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="PELÍCULAS FHD",UNIVESAL PREMIERE
+http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/56569.ts
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="PELÍCULAS FHD",UNIVESAL  COMEDY HD
+http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/56568.ts
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="PELÍCULAS FHD",UNIVESAL CRIME
+http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/50468.ts
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="PELÍCULAS FHD",UNIVESAL  CINEMA HD
+http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/50835.ts
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="PELÍCULAS FHD",ULTRA FAMILIA
+http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/5691.ts
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="PELÍCULAS FHD",DISNEY CINEMA
+http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/51458.ts
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="PELÍCULAS FHD",MOVISTAR CINE
+http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/2647.ts
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="PELÍCULAS FHD",FOX  CINE HD
+http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/50834.ts
