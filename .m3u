@@ -2,3 +2,17 @@
 http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/50262.ts
 #EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="COLOMBIA",win+
 http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/50262.ts
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="COLOMBIA",RCN HD
+http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/2375.ts
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="COLOMBIA",CARACOL HD
+http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/38211.ts
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="COLOMBIA",SEÑAL COLOMBIA
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="COLOMBIA",TELECARIBE
+http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/2378.ts
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="COLOMBIA",LA CALLE
+http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/55183.ts
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="COLOMBIA",CITY TV
+http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/2373.ts
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="COLOMBIA",TELE FAMILIA
+https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8
