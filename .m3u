@@ -18,8 +18,8 @@ http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/2373.ts
 https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="DEPORTES PREMIUM",STAR+ HD
-http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/56934.ts
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="DEPORTES PREMIUM",SPN 7 
+http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/37134.ts
 #EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="DEPORTES PREMIUM",WIN+ HD
 http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/56942.ts
 #EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="DEPORTES PREMIUM",ESPN HH
@@ -30,8 +30,8 @@ http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/76711.ts
 http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/56938.ts
 #EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="DEPORTES PREMIUM",FOX SPORTS 3 HD
 http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/76712.ts
-#EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="DEPORTES PREMIUM",APPLE TV & MLS
-http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/76848.ts
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="DEPORTES PREMIUM",DIRECTV COL
+http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/52452.ts
 #EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="DEPORTES PREMIUM",EVENTOS DEL DIA
 http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/57133.ts
 
@@ -80,8 +80,8 @@ http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/2467.ts
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_
 #EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="INFANTIL",MAGIC  KIDS
 https://magicstream.ddns.net/magicstream/stream.m3u8
-#EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="INFANTIL",CARTOON  NETWORK
-http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/48374.ts
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="INFANTIL",ANIMAL PLANE
+http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/2454.ts
 #EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="INFANTIL",DISKOVERY  KIDS
 http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/2471.ts
 #EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="INFANTIL",DISNEY CHANNEL
