@@ -58,3 +58,17 @@ http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/51458.ts
 http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/2647.ts
 #EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="PELÍCULAS FHD",FOX  CINE HD
 http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/50834.ts
+
+
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="HBO",HBO SIGNATURE1
+http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/6510.ts
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="HBO",HBO POP
+http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/30416.ts
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="HBO",HBO MUNDY
+http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/39810.ts
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="HBO",HBO FAMILY
+http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/2644.ts
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="HBO",HBO  2
+http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/2677.ts
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="HBO",HBO 
+http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/2642.ts
