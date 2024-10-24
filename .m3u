@@ -16,3 +16,22 @@ http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/55183.ts
 http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/2373.ts
 #EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="COLOMBIA",TELE FAMILIA
 https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="DEPORTES PREMIUM",STAR+ HD
+http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/56934.ts
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="DEPORTES PREMIUM",WIN+ HD
+http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/56942.ts
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="DEPORTES PREMIUM",ESPN HH
+http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/56935.ts
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="DEPORTES PREMIUM",ESPN  PREMIUM
+http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/76711.ts
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="DEPORTES PREMIUM",FOX SPORTS 2 HD
+http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/56938.ts
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="DEPORTES PREMIUM",FOX SPORTS 3 HD
+http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/76712.ts
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="DEPORTES PREMIUM",APPLE TV & MLS
+http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/76848.ts
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="DEPORTES PREMIUM",EVENTOS DEL DIA
+http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/57133.ts
