@@ -72,3 +72,23 @@ http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/2644.ts
 http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/2677.ts
 #EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="HBO",HBO 
 http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/2642.ts
+
+
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="INFANTIL",BABY  TV
+http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/2467.ts
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="INFANTIL",BABY  FIRST
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="INFANTIL",MAGIC  KIDS
+https://magicstream.ddns.net/magicstream/stream.m3u8
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="INFANTIL",CARTOON  NETWORK
+http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/48374.ts
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="INFANTIL",DISKOVERY  KIDS
+http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/2471.ts
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="INFANTIL",DISNEY CHANNEL
+http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/30366.ts
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="INFANTIL",DISNEY  JUNIOR
+http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/48375.ts
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="INFANTIL",NICK  jR
+http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/2478.ts
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="INFANTIL",REYNO  INFANTIL 
+http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/30604.ts
