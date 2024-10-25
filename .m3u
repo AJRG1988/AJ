@@ -14,6 +14,16 @@ http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/55183.ts
 http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/2373.ts
 #EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="COLOMBIA",TELE FAMILIA
 https://stmv2.voxtvhd.com.br/telefamilia/telefamilia/playlist.m3u8
+#EXTINF:-1tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="COLOMBIA"CABLE NOTICIAS 
+http://castlempire.site:8080/live/Cuenta42/4hQTscJnrHfb/170172.t
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="COLOMBIA",CANAL  UNO
+http://castlempire.site:8080/live/Cuenta42/4hQTscJnrHfb/170171.ts
+#EXTINF:-1tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="COLOMBIA",CITY TV
+http://castlempire.site:8080/live/Cuenta42/4hQTscJnrHfb/170176.ts
+#EXTINF:-1tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title=",COLOMBIA"TELE ANTIO
+http://castlempire.site:8080/live/Cuenta42/4hQTscJnrHfb/170183.ts
+#EXTINF:-1tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="COLOMBIA",TELE MEDELLIN
+http://castlempire.site:8080/live/Cuenta42/4hQTscJnrHfb/170192.ts
 
 
 #EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="WIN",WIN+
