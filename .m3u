@@ -22,6 +22,36 @@ http://aorusxtv.xyz:8080/live/Por6M180D/zNkRNSKM48/678174.ts
 http://castlempire.site:8080/live/Cuenta42/4hQTscJnrHfb/170181.ts
 
 
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/es/image-vector/colombia-circle-flag-button-icon-standard-2409348913"group-title="COLOMBIA2",TELECARIBE
+http://fortv.cc:8080/live/0n8u9R/169324/173301.ts
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/es/image-vector/colombia-circle-flag-button-icon-standard-2409348913"group-title="COLOMBIA2",SPN
+http://fortv.cc:8080/live/0n8u9R/169324/86765.ts
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/es/image-vector/colombia-circle-flag-button-icon-standard-2409348913"group-title="COLOMBIA2",win+
+http://fortv.cc:8080/live/0n8u9R/169324/78717.ts
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/es/image-vector/colombia-circle-flag-button-icon-standard-2409348913"group-title="COLOMBIA2",TELE pasifico
+http://fortv.cc:8080/live/0n8u9R/169324/78729.ts
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/es/image-vector/colombia-circle-flag-button-icon-standard-2409348913"group-title="COLOMBIA2",TELE antioquia
+http://fortv.cc:8080/live/0n8u9R/169324/78706.ts
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/es/image-vector/colombia-circle-flag-button-icon-standard-2409348913"group-title="COLOMBIA2",SEÑAL Colombia
+http://fortv.cc:8080/live/0n8u9R/169324/78711.ts
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/es/image-vector/colombia-circle-flag-button-icon-standard-2409348913"group-title="COLOMBIA2",RCN novela
+http://fortv.cc:8080/live/0n8u9R/169324/78716.ts
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/es/image-vector/colombia-circle-flag-button-icon-standard-2409348913"group-title="COLOMBIA2",RCN HD
+http://fortv.cc:8080/live/0n8u9R/169324/78694.ts
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/es/image-vector/colombia-circle-flag-button-icon-standard-2409348913"group-title="COLOMBIA2",WIN+2
+http://fortv.cc:8080/live/0n8u9R/169324/78697.ts
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/es/image-vector/colombia-circle-flag-button-icon-standard-2409348913"group-title="COLOMBIA2",TNT 24
+http://fortv.cc:8080/live/0n8u9R/169324/78704.ts
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/es/image-vector/colombia-circle-flag-button-icon-standard-2409348913"group-title="COLOMBIA2",CARACOL HD
+http://fortv.cc:8080/live/0n8u9R/169324/78700.ts
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/es/image-vector/colombia-circle-flag-button-icon-standard-2409348913"group-title="COLOMBIA2",CARACOL inter
+http://fortv.cc:8080/live/0n8u9R/169324/78701.ts
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/es/image-vector/colombia-circle-flag-button-icon-standard-2409348913"group-title="COLOMBIA2",CANAL1
+http://fortv.cc:8080/live/0n8u9R/169324/78698.ts
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/es/image-vector/colombia-circle-flag-button-icon-standard-2409348913"group-title="COLOMBIA2",DISKOVERY
+http://fortv.cc:8080/live/0n8u9R/169324/57645.ts
+
+
 #EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="WIN",WIN+
 http://castlempire.site:8080/live/Cuenta42/4hQTscJnrHfb/172522.ts
 #EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="WIN",WIN+
@@ -44,6 +74,7 @@ http://aorusxtv.xyz:8080/live/Por6M180D/zNkRNSKM48/675601.ts
 http://aorusxtv.xyz:8080/live/Por6M180D/zNkRNSKM48/675599.ts
 #EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="WIN",WIN+ HDT
 http://tv.teleclub.xyz/club/server_3/deportes/winsportsplus/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="DEPORTES PREMIUM",SPN 7 
 http://chiletv.ddns.me:2082/live/ColoColo3003/LaGarraBlanca/37134.ts
