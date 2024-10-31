@@ -76,39 +76,6 @@ http://aorusxtv.xyz:8080/live/Por6M180D/zNkRNSKM48/675599.ts
 http://fortv.cc:8080/live/0n8u9R/169324/78717.ts
 
 
-#EXTINF:-1 tvg-logo="https://www.shutterstock.com/es/image-vector/colombia-circle-flag-button-icon-standard-2409348913"group-title="DEPORTES",TENIS CH
-https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
-#EXTINF:-1 tvg-logo="https://www.shutterstock.com/es/image-vector/colombia-circle-flag-button-icon-standard-2409348913"group-title="DEPORTES",COMBATE
-http://premierchile.shop:8080/live/56969186384face/011220iptv/582.ts
-#EXTINF:-1 tvg-logo="https://www.shutterstock.com/es/image-vector/colombia-circle-flag-button-icon-standard-2409348913"group-title="DEPORTES",CLARO SPOR
-http://premierchile.shop:8080/live/56969186384face/011220iptv/463.ts
-#EXTINF:-1 tvg-logo="https://www.shutterstock.com/es/image-vector/colombia-circle-flag-button-icon-standard-2409348913"group-title="DEPORTES",GOLT
-channelhttp://premierchile.shop:8080/live/56969186384face/011220iptv/549.ts
-#EXTINF:-1 tvg-logo="https://www.shutterstock.com/es/image-vector/colombia-circle-flag-button-icon-standard-2409348913"group-title="DEPORTES",MOVISTAR
-http://premierchile.shop:8080/live/56969186384face/011220iptv/498.ts
-#EXTINF:-1 tvg-logo="https://www.shutterstock.com/es/image-vector/colombia-circle-flag-button-icon-standard-2409348913"group-title="DEPORTES",LA LIGA TV
-http://premierchile.shop:8080/live/56969186384face/011220iptv/490.ts
-#EXTINF:-1 tvg-logo="https://www.shutterstock.com/es/image-vector/colombia-circle-flag-button-icon-standard-2409348913"group-title="DEPORTES",M DEPORTES
-http://premierchile.shop:8080/live/56969186384face/011220iptv/550.ts
-#EXTINF:-1 tvg-logo="https://www.shutterstock.com/es/image-vector/colombia-circle-flag-button-icon-standard-2409348913"group-title="DEPORTES",PREMIER
-http://premierchile.shop:8080/live/56969186384face/011220iptv/563.ts
-#EXTINF:-1 tvg-logo="https://www.shutterstock.com/es/image-vector/colombia-circle-flag-button-icon-standard-2409348913"group-title="DEPORTES",DIRECTV
-http://premierchile.shop:8080/live/56969186384face/011220iptv/468.ts
-#EXTINF:-1 tvg-logo="https://www.shutterstock.com/es/image-vector/colombia-circle-flag-button-icon-standard-2409348913"group-title="DEPORTES",SPN 6
-http://premierchile.shop:8080/live/56969186384face/011220iptv/539.ts
-#EXTINF:-1 tvg-logo="https://www.shutterstock.com/es/image-vector/colombia-circle-flag-button-icon-standard-2409348913"group-title="DEPORTES",SPN 5
-http://premierchile.shop:8080/live/56969186384face/011220iptv/528.ts
-#EXTINF:-1 tvg-logo="https://www.shutterstock.com/es/image-vector/colombia-circle-flag-button-icon-standard-2409348913"group-title="DEPORTES",SPN 4
-http://premierchile.shop:8080/live/56969186384face/011220iptv/515.ts
-#EXTINF:-1 tvg-logo="https://www.shutterstock.com/es/image-vector/colombia-circle-flag-button-icon-standard-2409348913"group-title="DEPORTES",SPN 3
-http://premierchile.shop:8080/live/56969186384face/011220iptv/512.ts
-#EXTINF:-1 tvg-logo="https://www.shutterstock.com/es/image-vector/colombia-circle-flag-button-icon-standard-2409348913"group-title="DEPORTES",SPN 2
-http://premierchile.shop:8080/live/56969186384face/011220iptv/503.ts
-#EXTINF:-1 tvg-logo="https://www.shutterstock.com/es/image-vector/colombia-circle-flag-button-icon-standard-2409348913"group-title="DEPORTES",SPN
-http://premierchile.shop:8080/live/56969186384face/011220iptv/501.ts
-#EXTINF:-1 tvg-logo="https://www.shutterstock.com/es/image-vector/colombia-circle-flag-button-icon-standard-2409348913"group-title="DEPORTES",FOX
-http://premierchile.shop:8080/live/56969186384face/011220iptv/525.ts
-
 #EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="PELÍCULAS FHD",CINE ROMÁNTICO 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 #EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Win_%2B_F%C3%BAtbol" group-title="PELÍCULAS FHD",RETROX
